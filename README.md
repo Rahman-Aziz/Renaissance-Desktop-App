@@ -13,6 +13,7 @@
 ### Home Dashboard
 ![Home](file:///C:/Users/USER/.gemini/antigravity/brain/3376cf15-6bb6-443d-b2ee-5725b843cc3b/home_1774880345560.png)
 
+<img width="1298" height="882" alt="sspic1" src="https://github.com/user-attachments/assets/98e7396f-0bdc-4a05-a7eb-79b8c00f185a" />
 
 
 ---
