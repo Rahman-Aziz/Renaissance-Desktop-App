@@ -13,8 +13,7 @@
 ### Home Dashboard
 ![Home](file:///C:/Users/USER/.gemini/antigravity/brain/3376cf15-6bb6-443d-b2ee-5725b843cc3b/home_1774880345560.png)
 
-### Model Builder
-![Model Builder](file:///C:/Users/USER/.gemini/antigravity/brain/3376cf15-6bb6-443d-b2ee-5725b843cc3b/model_builder_1774880369872.png)
+
 
 ---
 
